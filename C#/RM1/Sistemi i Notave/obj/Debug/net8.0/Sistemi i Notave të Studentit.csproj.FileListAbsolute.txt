@@ -1,0 +1,15 @@
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\bin\Debug\net8.0\Sistemi i Notave të Studentit.exe
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\bin\Debug\net8.0\Sistemi i Notave të Studentit.deps.json
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\bin\Debug\net8.0\Sistemi i Notave të Studentit.runtimeconfig.json
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\bin\Debug\net8.0\Sistemi i Notave të Studentit.dll
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\bin\Debug\net8.0\Sistemi i Notave të Studentit.pdb
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\obj\Debug\net8.0\Sistemi i Notave të Studentit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\obj\Debug\net8.0\Sistemi i Notave të Studentit.AssemblyInfoInputs.cache
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\obj\Debug\net8.0\Sistemi i Notave të Studentit.AssemblyInfo.cs
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\obj\Debug\net8.0\Sistemi i Notave të Studentit.csproj.CoreCompileInputs.cache
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\obj\Debug\net8.0\Sistemi i Notave të Studentit.sourcelink.json
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\obj\Debug\net8.0\Sistemi i Notave të Studentit.dll
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\obj\Debug\net8.0\refint\Sistemi i Notave të Studentit.dll
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\obj\Debug\net8.0\Sistemi i Notave të Studentit.pdb
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\obj\Debug\net8.0\Sistemi i Notave të Studentit.genruntimeconfig.cache
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\C#\RM1\Sistemi i Notave të Studentit\obj\Debug\net8.0\ref\Sistemi i Notave të Studentit.dll
