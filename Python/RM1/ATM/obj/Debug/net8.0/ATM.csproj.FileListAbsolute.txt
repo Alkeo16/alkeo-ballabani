@@ -1,0 +1,5 @@
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\Python\RM1\ATM\obj\Debug\net8.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\Python\RM1\ATM\obj\Debug\net8.0\ATM.AssemblyInfoInputs.cache
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\Python\RM1\ATM\obj\Debug\net8.0\ATM.AssemblyInfo.cs
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\Python\RM1\ATM\obj\Debug\net8.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Alkeo\OneDrive\Documents\GitHub\alkeo-ballabani\Python\RM1\ATM\obj\Debug\net8.0\ATM.sourcelink.json
