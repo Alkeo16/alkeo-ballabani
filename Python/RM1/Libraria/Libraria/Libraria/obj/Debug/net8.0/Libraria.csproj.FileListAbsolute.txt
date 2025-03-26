@@ -1,0 +1,14 @@
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\bin\Debug\net8.0\Libraria.exe
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\bin\Debug\net8.0\Libraria.deps.json
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\bin\Debug\net8.0\Libraria.runtimeconfig.json
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\bin\Debug\net8.0\Libraria.dll
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\bin\Debug\net8.0\Libraria.pdb
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\obj\Debug\net8.0\Libraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\obj\Debug\net8.0\Libraria.AssemblyInfoInputs.cache
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\obj\Debug\net8.0\Libraria.AssemblyInfo.cs
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\obj\Debug\net8.0\Libraria.csproj.CoreCompileInputs.cache
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\obj\Debug\net8.0\Libraria.dll
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\obj\Debug\net8.0\refint\Libraria.dll
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\obj\Debug\net8.0\Libraria.pdb
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\obj\Debug\net8.0\Libraria.genruntimeconfig.cache
+C:\Users\Alkeo\OneDrive\Documents\V.S.C 2022 work\Libraria\Libraria\Libraria\obj\Debug\net8.0\ref\Libraria.dll
